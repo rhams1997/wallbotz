@@ -99,5 +99,13 @@ a:hover{
     color: #fbfbfb
   }
 
+  .carousel{
+    text-align: center;
+    margin: 0 auto; 
+    background-color: rgb(6, 243, 227);
+  }
+
+
+
 
   
