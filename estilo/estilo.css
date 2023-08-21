@@ -75,11 +75,6 @@ ul {
     border: 10px solid black;
 }
 
-.mesaredonda{
-    align-items: center;
-    background-color: rgb(6, 243, 227); 
-}
-
 .titulo{
     text-align: center;
 }
@@ -100,6 +95,7 @@ ul {
 
 #rodape {
     margin-top: 5px;
+    padding: 1rem;
     background-color:  rgb(40, 49, 95);
     color: #ffffff;
     display: flex;
