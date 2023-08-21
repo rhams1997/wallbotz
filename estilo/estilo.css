@@ -3,6 +3,13 @@ body {
     padding: 0px;
 }
 
+h5{
+    align-items: center;
+}
+
+p{
+    align-items: center;
+}
 
 a{
     color: black;
